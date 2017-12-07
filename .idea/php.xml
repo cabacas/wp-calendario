@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/../../../../_EXTRAS/wordpress-4.3.1/wordpress" />
+      <path value="C:\Users\ray\Google Drive\_EXTRAS\wordpress-4.4.1\wordpress" />
+    </include_path>
+  </component>
+</project>

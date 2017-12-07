@@ -1,0 +1,7 @@
+/*
+WP Calendario Fields Framework Override
+*/
+
+.ff-fields > table > tbody > tr > th {
+    width: 1%!important;
+}
